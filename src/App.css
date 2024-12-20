@@ -3,7 +3,7 @@ section {
   width: 100vw;
   min-height: 100vh;
   padding: 85px 0px;
-  background-image: url("../public/water-2748695_1280.png");
+  background-image: url("/water-2748695_1280.png");
   background-position: center;
   background-repeat: repeat-y;
   background-size: contain;

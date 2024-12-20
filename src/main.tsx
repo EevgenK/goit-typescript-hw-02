@@ -9,13 +9,12 @@ createRoot(document.getElementById("root") as HTMLElement).render(
     <App />
     <Toaster
       containerStyle={{
-        top: "10%",
-        left: "60%",
+        top: "20%",
       }}
       toastOptions={{
         error: {
           style: {
-            background: "var(--second-color)",
+            background: "var(--accent-color)",
             color: "white",
           },
         },
